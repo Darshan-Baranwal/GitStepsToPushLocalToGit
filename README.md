@@ -1,5 +1,6 @@
 # GitStepsToPushLocalToGit
 Steps to push your local codes to git repository
+
 Go to your project folder
 Open CMD/GitBash
 git init
